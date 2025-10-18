@@ -1,5 +1,5 @@
 # ChatRoom 💬
- A Firebase backed chat app with diffrent chatroom functionality
+ A Firebase backed chat app with different chatroom functionality
 
 Demo here https://aimissq.github.io/ChatRoom/
 ## Overview 👀
